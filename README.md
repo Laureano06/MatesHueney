@@ -2,6 +2,10 @@
 
 **Live demo:** https://mates-hueney.vercel.app
 
+| Home · Inicio | Catalog · Catálogo |
+|---|---|
+| ![Home](docs/screenshots/home.png) | ![Catalog](docs/screenshots/products.png) |
+
 [English](#english) · [Español](#español)
 
 ---
